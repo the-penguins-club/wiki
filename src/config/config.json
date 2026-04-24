@@ -1,18 +1,16 @@
 {
   "site": {
     "title": "TPC: The Penguins Club",
-    "logo": "/src/assets/tpc.jpg",
-    "logo_darkmode": "/src/assets/tpc.jpg",
+    "logo": "/src/assets/tpc.png",
+    "logo_darkmode": "/src/assets/tpc.png",
     "logo_width": "50",
     "logo_height": "50",
     "logo_text": "TPC"
   },
-
   "settings": {
     "search": true,
     "theme_switcher": true
   },
-
   "params": {
     "footer_contact": {
       "enable": true,
@@ -20,7 +18,6 @@
     },
     "copyright": "Designed and Developed by <a class=\"text-primary hover:underline no-underline\" href=\"https://themefisher.com\" target=\"_blank\" rel=\"noopener\" aria-label=\"Themefisher\">Themefisher</a> Copyright &copy; 2025."
   },
-
   "navigation_button": {
     "enable": false,
     "label": "Get Started",
